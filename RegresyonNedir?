@@ -1,0 +1,13 @@
+1-)Birkaç ülke için elinizde finansal, ekonomik ve sosyal göstergeler hakkında Dünya Bankası verileri olduğunu varsayalım. Bu ülkelerdeki gelişme düzeyini etkileyen faktörleri ölçmek istiyorsunuz. Bu amaçla, milli gelirin nüfusa bölümü olarak tanımlanan kişi başına düşen milli geliri, kalkınma seviyesi için bir vekil olarak kullanmaya karar verdiniz. Kişi başına geliri tahmin etmek için veri kümenizdeki bazı özellikleri kullanmak istiyorsunuz. Bu görev bir sınıflandırma görevi mi yoksa bir regresyon görevi mi? Niçin?
+2-)Aşağıdaki argümanlardan hangileri yanlıştır ve neden?
+OLS, özel bir doğrusal regresyon modelidir.
+Regresyon modelleri, doğrusal regresyon varsayımlarını karşılamıyorsa kullanışsız hale gelir.
+Estimation ve prediction, doğrusal regresyon modelleri bağlamında aynı şeydir.
+Doğrusal regresyon modeli sadece bir tür regresyon modelidir. Regresyon problemleri, Support Vector Machines veya Random Forests gibi başka modellerle de çözülebilir.
+3-)Proje yöneticinizin, şirketinizin sunduğu hangi ücretsiz hizmetlerin, müşterilerinizin daha fazla ücretli hizmet satın almasını sağladığını bulmanızı istediğini varsayalım. Bu görevi bir regresyon problemi olarak formüle edin ve üzerinde çalışmak istediğiniz potansiyel sonucu ve özellikleri yazın.
+
+
+Cevaplar:
+1-) Bu bir regresyon problemidir. Çünkü kişi başına geliri tahmin etmeye çalışıyoruz. Bu hedef değişkenimiz sürekli bir değişken olduğu için regresyon problemidir.
+
+2-)
