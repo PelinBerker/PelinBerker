@@ -10,4 +10,15 @@ Doğrusal regresyon modeli sadece bir tür regresyon modelidir. Regresyon proble
 Cevaplar:
 1-) Bu bir regresyon problemidir. Çünkü kişi başına geliri tahmin etmeye çalışıyoruz. Bu hedef değişkenimiz sürekli bir değişken olduğu için regresyon problemidir.
 
-2-)
+2-) 
+    OLS, özel bir doğrusal regresyon modelidir. Evet.
+
+    Regresyon modelleri, doğrusal regresyon varsayımlarını karşılamıyorsa kullanışsız hale gelir. Yanlış. Çünkü:
+    Eğer modelimizin eğitim metriği yüksek tahminden sonra hata metriklerimiz
+    düşükse kullanabiliriz.
+    
+    Estimation ve prediction, doğrusal regresyon modelleri bağlamında aynı şeydir. HAyır. 
+    Estimate(Kestirim), kurulan istatistiksel modele ilişkin parametrelerinin tahmin edilmesi durumudur.Predict(Tahmin) terimi belirli bir andaki mevcut veriye ilişkin bir tahmini içermektedir. Bağımlı ve bağımsız değişkenlerin bulunduğu bir modelde mevcut durumun tahminidir
+    
+    Doğrusal regresyon modeli sadece bir tür regresyon modelidir. Regresyon problemleri, Support Vector Machines veya Random Forests gibi başka modellerle de çözülebilir.
+    Evet doğrusal regresyon bir regrasyon problemi ve Başka modellerle çözülebilir lineer regrasyon. Ancak verilenler kümeleme sınıflandırma problemlerinde kullanılan modellerdir.
