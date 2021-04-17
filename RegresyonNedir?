@@ -21,4 +21,4 @@ Cevaplar:
     Estimate(Kestirim), kurulan istatistiksel modele ilişkin parametrelerinin tahmin edilmesi durumudur.Predict(Tahmin) terimi belirli bir andaki mevcut veriye ilişkin bir tahmini içermektedir. Bağımlı ve bağımsız değişkenlerin bulunduğu bir modelde mevcut durumun tahminidir
     
     Doğrusal regresyon modeli sadece bir tür regresyon modelidir. Regresyon problemleri, Support Vector Machines veya Random Forests gibi başka modellerle de çözülebilir.
-    Evet doğrusal regresyon bir regrasyon problemi ve Başka modellerle çözülebilir lineer regrasyon. Ancak verilenler kümeleme sınıflandırma problemlerinde kullanılan modellerdir.
+    Evet doğrusal regresyon bir regrasyon problemi ve Başka modellerle çözülebilir lineer regrasyon.
