@@ -1,0 +1,11 @@
+1. Yorum ve anlam
+ABD’deki ailelerin yıllık dinlenme/eğlenme harcamalarını bilmek istediğimizi varsayalım. Aşağıdaki modeli tahmin ettik:
+
+harcamalar=873+0.0012∗yıllık_gelir+0.00002∗yıllık_gelir2−223.57∗cocuk_sahibi
+
+Harcama ABD doları cinsinden eğlenme yıllık harcamasıdır, yıllık_gelir ABD doları cinsinden yıllık gelirdir ve cocuk_sahibi çocuklu aileleri gösteren değişkendir. 
+Tahmin edilen katsayıları yorumlayınız. Yorumlarınızın istatistiksel olarak anlamlı olduğundan emin olmak için hangi ek istatistikler verilmelidir?
+
+873 sabit.Yıllık gelir ve etkileşimli bir değeişken olan yıllık gelir2 , harcamalar ile pozitif , çocuk sahibi olmak negatif etkilemektedir.
+Harcama hedef değişkenim ; çocuk sahibi ise harcamalarda 223.57 dolar eksiltmekte, Yıllık gelirin 0.0012 katı ve yıllık gelirin karesi ile 0.00002 katı olarak hesaplanmıitır.
+İstatiksel olarak anlamlı olup olmadığına her bir değişkenin katsayısı için t testine karşılık gelen p değerine bakabiliriz. 0.01 in altında ise anlamlıdır.
